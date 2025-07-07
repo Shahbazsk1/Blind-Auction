@@ -4,16 +4,16 @@ This program simulates an auction where users can place secret bids.
 At the end of the auction, the highest bidder is announced.
 
 steps:
-1.Accept Multiple User Bids
+<br>1.Accept Multiple User Bids
 Prompts each user to enter their name and bid amount one at a time.
 
-2.Maintain Bid Privacy
+<br>2.Maintain Bid Privacy
 Simulates screen clearing using multiple \n characters to keep bids hidden from other users.
 
-3.Store Bids Securely
+<br>3.Store Bids Securely
 Uses a Python dictionary ({name: bid}) to keep track of all submitted bids.
 
-4.Determine the Winner
+<br>4.Determine the Winner
 After all bids are entered, the program identifies the highest bidder and displays their name and bid.
 
 Technologies & Python Libraries Used:
