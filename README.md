@@ -6,10 +6,13 @@ At the end of the auction, the highest bidder is announced.
 steps:
 <br>1.Accept Multiple User Bids
 <br>Prompts each user to enter their name and bid amount one at a time.
+
 <br>2.Maintain Bid Privacy
 <br>Simulates screen clearing using multiple \n characters to keep bids hidden from other users.
+
 <br>3.Store Bids Securely
 <br>Uses a Python dictionary ({name: bid}) to keep track of all submitted bids.
+
 <br>4.Determine the Winner
 <br>After all bids are entered, the program identifies the highest bidder and displays their name and bid.
 
