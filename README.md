@@ -5,22 +5,22 @@ At the end of the auction, the highest bidder is announced.
 
 steps:
 <br>1.Accept Multiple User Bids
-Prompts each user to enter their name and bid amount one at a time.
+<br>Prompts each user to enter their name and bid amount one at a time.
 
 <br>2.Maintain Bid Privacy
-Simulates screen clearing using multiple \n characters to keep bids hidden from other users.
+<br>Simulates screen clearing using multiple \n characters to keep bids hidden from other users.
 
 <br>3.Store Bids Securely
-Uses a Python dictionary ({name: bid}) to keep track of all submitted bids.
+<br>Uses a Python dictionary ({name: bid}) to keep track of all submitted bids.
 
 <br>4.Determine the Winner
-After all bids are entered, the program identifies the highest bidder and displays their name and bid.
+<br>After all bids are entered, the program identifies the highest bidder and displays their name and bid.
 
 Technologies & Python Libraries Used:
--print(), input() – for user interaction
--if/else, while loops – for flow control
--dictionary – for storing user bids
+<br>-print(), input() – for user interaction
+<br>-if/else, while loops – for flow control
+<br>-dictionary – for storing user bids
 
 Custom ASCII Art:
--from art import logo – displays a styled logo at the beginning
--Optional: You can create your own art.py or use an ASCII generator
+<br>-from art import logo – displays a styled logo at the beginning
+<br>-Optional: You can create your own art.py or use an ASCII generator
